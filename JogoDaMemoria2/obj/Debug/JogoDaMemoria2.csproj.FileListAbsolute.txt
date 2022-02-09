@@ -1,0 +1,72 @@
+D:\Escola\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csprojAssemblyReference.cache
+D:\Escola\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Form1.resources
+D:\Escola\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Properties.Resources.resources
+D:\Escola\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.GenerateResource.cache
+D:\Escola\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe.config
+D:\Escola\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe
+D:\Escola\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.pdb
+D:\Escola\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.exe
+D:\Escola\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.pdb
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe.config
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.pdb
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csprojAssemblyReference.cache
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Form1.resources
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Form2.resources
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Properties.Resources.resources
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.GenerateResource.cache
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.exe
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.pdb
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormMedio.resources
+C:\Escola\11º\PSI\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormDificil.resources
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\users.accdb
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe.config
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.pdb
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csprojAssemblyReference.cache
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Form1.resources
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Form2.resources
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormDificil.resources
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormLogin.resources
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormMedio.resources
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormNewUser.resources
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormRegisterUser.resources
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormSplash.resources
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Properties.Resources.resources
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.GenerateResource.cache
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.CoreCompileInputs.cache
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.exe
+G:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.pdb
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\users.accdb
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe.config
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.pdb
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.AssemblyReference.cache
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Form1.resources
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Form2.resources
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormDificil.resources
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormLogin.resources
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormMedio.resources
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormNewUser.resources
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormRegisterUser.resources
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormSplash.resources
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Properties.Resources.resources
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.GenerateResource.cache
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.CoreCompileInputs.cache
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.exe
+D:\Rafael Escadas\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.pdb
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\users.accdb
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe.config
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.exe
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\bin\Debug\JogoDaMemoria2.pdb
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Form1.resources
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormJogo.resources
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormLogin.resources
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormNewUser.resources
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormRegisterUser.resources
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.FormSplash.resources
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.Properties.Resources.resources
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csproj.GenerateResource.cache
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.exe
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.pdb
+C:\Escola\11º\PSI\Visual Studio\JogoDaMemoria2\JogoDaMemoria2\obj\Debug\JogoDaMemoria2.csprojAssemblyReference.cache
